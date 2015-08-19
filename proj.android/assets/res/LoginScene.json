@@ -1,0 +1,526 @@
+{
+  "ID": "81f88003-0330-4ae1-b158-482179087416",
+  "Version": "2.3.1.1",
+  "Name": "LoginScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 30,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bgLogin.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 31,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "textAccUp.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 357.272,
+                  "Y": 533.7548
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4962,
+                  "Y": 0.417
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.272,
+                "RightMargin": 142.728,
+                "TopMargin": 702.2452,
+                "BottomMargin": 489.7548,
+                "Tag": 32,
+                "ActionTag": -1264703535,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 88.0
+                },
+                "Name": "textAccUp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "textPwdUp.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 357.1265,
+                  "Y": 399.9316
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.496,
+                  "Y": 0.3124
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.1265,
+                "RightMargin": 142.8735,
+                "TopMargin": 836.0684,
+                "BottomMargin": 355.9316,
+                "Tag": 33,
+                "ActionTag": 1585278231,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 88.0
+                },
+                "Name": "textPwdUp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "spriteWhiteCar.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 203.5201,
+                  "Y": 595.1955
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2827,
+                  "Y": 0.465
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 161.5201,
+                "RightMargin": 474.4799,
+                "TopMargin": 667.8045,
+                "BottomMargin": 578.1955,
+                "Tag": 35,
+                "ActionTag": 1474738246,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 34.0
+                },
+                "Name": "spriteWhiteCar",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1199676661,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "bgLogin_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "btnLoginDown.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btnLoginUp.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 210,
+            "Scale9Height": 66,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 351.1647,
+              "Y": 270.4447
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4877,
+              "Y": 0.2113
+            },
+            "PreSize": {
+              "X": 0.3333,
+              "Y": 0.0688
+            },
+            "LeftMargin": 231.1647,
+            "RightMargin": 248.8353,
+            "TopMargin": 965.5553,
+            "BottomMargin": 226.4447,
+            "Tag": 38,
+            "ActionTag": 1341886589,
+            "Size": {
+              "X": 240.0,
+              "Y": 88.0
+            },
+            "Name": "btnLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btnForgetPwd.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 7,
+            "Scale9Width": 70,
+            "Scale9Height": 10,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 186.2682,
+              "Y": 115.4708
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2587,
+              "Y": 0.0902
+            },
+            "PreSize": {
+              "X": 0.1389,
+              "Y": 0.0188
+            },
+            "LeftMargin": 136.2682,
+            "RightMargin": 483.7318,
+            "TopMargin": 1152.5292,
+            "BottomMargin": 103.4708,
+            "Tag": 39,
+            "ActionTag": 158575945,
+            "Size": {
+              "X": 100.0,
+              "Y": 24.0
+            },
+            "Name": "btnForgetPwd",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "btnRegister.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 8,
+            "Scale9Width": 69,
+            "Scale9Height": 9,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 520.6655,
+              "Y": 115.971
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7231,
+              "Y": 0.0906
+            },
+            "PreSize": {
+              "X": 0.1375,
+              "Y": 0.0195
+            },
+            "LeftMargin": 471.1655,
+            "RightMargin": 149.8345,
+            "TopMargin": 1151.5289,
+            "BottomMargin": 103.471,
+            "Tag": 40,
+            "ActionTag": -1336018616,
+            "Size": {
+              "X": 99.0,
+              "Y": 25.0
+            },
+            "Name": "btnRegister",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 17,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 409.5077,
+              "Y": 525.4074
+            },
+            "Scale": {
+              "ScaleX": 2.9169,
+              "ScaleY": 2.4167
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5688,
+              "Y": 0.4105
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 359.5077,
+            "RightMargin": 260.4923,
+            "TopMargin": 741.0926,
+            "BottomMargin": 511.9074,
+            "Tag": 41,
+            "ActionTag": 1951226422,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "textAcc",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 17,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "PasswordEnable": true,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 406.5232,
+              "Y": 391.3405
+            },
+            "Scale": {
+              "ScaleX": 2.9169,
+              "ScaleY": 2.1234
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5646,
+              "Y": 0.3057
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 356.5232,
+            "RightMargin": 263.4768,
+            "TopMargin": 875.1594,
+            "BottomMargin": 377.8405,
+            "Tag": 42,
+            "ActionTag": 1988345996,
+            "Size": {
+              "X": 100.0,
+              "Y": 27.0
+            },
+            "Name": "textPwd",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bgLogin.jpg",
+        "btnForgetPwd.png",
+        "btnLoginDown.png",
+        "btnLoginUp.png",
+        "btnRegister.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "spriteWhiteCar.png",
+        "textAccUp.png",
+        "textPwdUp.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

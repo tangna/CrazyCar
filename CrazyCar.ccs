@@ -1,0 +1,77 @@
+<Solution>
+  <PropertyGroup Name="CrazyCar" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="HelloWorld.png" />
+        <Project Name="LoginScene.csd" Type="Scene" />
+        <Image Name="bgLogin.jpg" />
+        <Image Name="btnForgetPwd.png" />
+        <Image Name="btnLoginDown.png" />
+        <Image Name="btnLoginUp.png" />
+        <Image Name="btnRegister.png" />
+        <Image Name="spriteWhiteCar.png" />
+        <Image Name="textAccDown.png" />
+        <Image Name="textAccUp.png" />
+        <Image Name="textPwdDown.png" />
+        <Image Name="textPwdUp.png" />
+        <Project Name="MenuScene.csd" Type="Scene" />
+        <Image Name="btnInformationDown.png" />
+        <Image Name="btnInformationUp.png" />
+        <Image Name="btnPlaygamedown.png" />
+        <Image Name="btnPlaygameup.png" />
+        <Image Name="btnSettingdown.png" />
+        <Image Name="btnSettingUp.png" />
+        <Image Name="btnTopDown.png" />
+        <Image Name="butTopUp.png" />
+        <Image Name="main-caidan.png" />
+        <Project Name="AboutScene.csd" Type="Scene" />
+        <Image Name="about-icon about.png" />
+        <Project Name="RegisterScene.csd" Type="Scene" />
+        <Image Name="background.png" />
+        <Image Name="btnConfirmpasswordup.png" />
+        <Image Name="btnIDup.png" />
+        <Image Name="btnRegisterup.png" />
+        <Image Name="ButtonPasswordup.png" />
+        <Image Name="picCar.png" />
+        <Image Name="about-main.png" />
+        <Image Name="fanhui.png" />
+        <Image Name="btnRegisterdown.png" />
+        <Project Name="RankScene.csd" Type="Scene" />
+        <Image Name="bgRank.jpg" />
+        <Image Name="btnIDdown.png" />
+        <Image Name="btnPWdown.png" />
+        <Image Name="btnPWup.png" />
+        <Image Name="btuIDup.png" />
+        <Image Name="jindutiao-yellow.png" />
+        <Image Name="paiming-jindutiao.png" />
+        <Image Name="WO-jindutiao.png" />
+        <Image Name="jindutiao-yellow2.png" />
+        <Image Name="WO-jindutiao2.png" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="Cover.png" />
+        <Image Name="roadFinal.png" />
+        <Image Name="roadOne.png" />
+        <Image Name="roadSecond.png" />
+        <Image Name="roadStart.png" />
+        <Image Name="explodeBlue.png" />
+        <Image Name="explodeGreen.png" />
+        <Image Name="explodeYellow.png" />
+        <Image Name="car.png" />
+        <Image Name="carBlue.png" />
+        <Image Name="carGreen.png" />
+        <Image Name="carRed.png" />
+        <Image Name="carYellow.png" />
+        <Image Name="stop.png" />
+        <Project Name="InitScene.csd" Type="Scene" />
+        <Project Name="RoadLayer.csd" Type="Layer" />
+        <Image Name="btnStop.png" />
+        <Image Name="layerStop.png" />
+        <Project Name="StopLayer.csd" Type="Layer" />
+        <Project Name="CarLayer.csd" Type="Layer" />
+        <Project Name="GameOver.csd" Type="Layer" />
+        <Image Name="layerOver.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

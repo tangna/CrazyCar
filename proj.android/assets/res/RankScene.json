@@ -1,0 +1,760 @@
+{
+  "ID": "d09f0425-ce7b-41f4-8885-25963f2f0ad7",
+  "Version": "2.3.1.1",
+  "Name": "RankScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 72,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bgRank.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 73,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "paiming-jindutiao.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.7029,
+                  "Y": 935.8339
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5288,
+                  "Y": 0.7311
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 165.7029,
+                "RightMargin": 124.2971,
+                "TopMargin": 329.1661,
+                "BottomMargin": 920.8339,
+                "Tag": 14,
+                "ActionTag": 645424023,
+                "Size": {
+                  "X": 430.0,
+                  "Y": 30.0
+                },
+                "Name": "Sprite_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "paiming-jindutiao.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.7013,
+                  "Y": 849.0933
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5288,
+                  "Y": 0.6634
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 165.7013,
+                "RightMargin": 124.2987,
+                "TopMargin": 415.9067,
+                "BottomMargin": 834.0933,
+                "Tag": 35,
+                "ActionTag": 2090096005,
+                "Size": {
+                  "X": 430.0,
+                  "Y": 30.0
+                },
+                "Name": "Sprite_12",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2012675710,
+            "Size": {
+              "X": 720.0,
+              "Y": 1280.0
+            },
+            "Name": "bgRank_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "fanhui.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "fanhui.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 34,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 88.3086,
+              "Y": 1215.8701
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1227,
+              "Y": 0.9499
+            },
+            "PreSize": {
+              "X": 0.0889,
+              "Y": 0.05
+            },
+            "LeftMargin": 56.3086,
+            "RightMargin": 599.6914,
+            "TopMargin": 32.1299,
+            "BottomMargin": 1183.8701,
+            "Tag": 7,
+            "ActionTag": -1072654075,
+            "Size": {
+              "X": 64.0,
+              "Y": 64.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "玩家名字",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 209.7028,
+              "Y": 968.1224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2913,
+              "Y": 0.7563
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 165.7028,
+            "RightMargin": 466.2972,
+            "TopMargin": 300.8776,
+            "BottomMargin": 957.1224,
+            "Tag": 15,
+            "ActionTag": 607688609,
+            "Size": {
+              "X": 88.0,
+              "Y": 22.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "455",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 598.3757,
+              "Y": 1050.3525
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8311,
+              "Y": 0.8206
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 571.3757,
+            "RightMargin": 94.6243,
+            "TopMargin": 211.6475,
+            "BottomMargin": 1032.3525,
+            "Tag": 21,
+            "ActionTag": 769083439,
+            "Size": {
+              "X": 54.0,
+              "Y": 36.0
+            },
+            "Name": "Text_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "分",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.167,
+              "Y": 1051.9305
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8988,
+              "Y": 0.8218
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 629.167,
+            "RightMargin": 54.833,
+            "TopMargin": 210.0695,
+            "BottomMargin": 1033.9305,
+            "Tag": 22,
+            "ActionTag": -1930699430,
+            "Size": {
+              "X": 36.0,
+              "Y": 36.0
+            },
+            "Name": "Text_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "551",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 628.0358,
+              "Y": 935.0404
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8723,
+              "Y": 0.7305
+            },
+            "PreSize": {
+              "X": 0.0458,
+              "Y": 0.0172
+            },
+            "LeftMargin": 611.5358,
+            "RightMargin": 75.4642,
+            "TopMargin": 333.9596,
+            "BottomMargin": 924.0404,
+            "Tag": 23,
+            "ActionTag": -376510814,
+            "Size": {
+              "X": 33.0,
+              "Y": 22.0
+            },
+            "Name": "Text_6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "分",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 654.1669,
+              "Y": 935.2431
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9086,
+              "Y": 0.7307
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 643.1669,
+            "RightMargin": 54.8331,
+            "TopMargin": 333.7569,
+            "BottomMargin": 924.2431,
+            "Tag": 24,
+            "ActionTag": -1602549279,
+            "Size": {
+              "X": 22.0,
+              "Y": 22.0
+            },
+            "Name": "Text_7",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ProgressInfo": 62,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "WO-jindutiao2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 366.702,
+              "Y": 1049.3307
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5093,
+              "Y": 0.8198
+            },
+            "PreSize": {
+              "X": 0.5583,
+              "Y": 0.0234
+            },
+            "LeftMargin": 165.702,
+            "RightMargin": 152.298,
+            "TopMargin": 215.6693,
+            "BottomMargin": 1034.3307,
+            "Tag": 27,
+            "ActionTag": 651080221,
+            "Size": {
+              "X": 402.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_6",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ProgressInfo": 78,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "jindutiao-yellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 380.8947,
+              "Y": 935.6738
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.529,
+              "Y": 0.731
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 165.8947,
+            "RightMargin": 124.1053,
+            "TopMargin": 329.3262,
+            "BottomMargin": 920.6738,
+            "Tag": 28,
+            "ActionTag": 1217355116,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_7",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "玩家名字",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 210.7021,
+              "Y": 881.1213
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2926,
+              "Y": 0.6884
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 166.7021,
+            "RightMargin": 465.2979,
+            "TopMargin": 387.8787,
+            "BottomMargin": 870.1213,
+            "Tag": 29,
+            "ActionTag": 1044308185,
+            "Size": {
+              "X": 88.0,
+              "Y": 22.0
+            },
+            "Name": "Text_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "500",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.0345,
+              "Y": 848.0392
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8737,
+              "Y": 0.6625
+            },
+            "PreSize": {
+              "X": 0.0458,
+              "Y": 0.0172
+            },
+            "LeftMargin": 612.5345,
+            "RightMargin": 74.4655,
+            "TopMargin": 420.9608,
+            "BottomMargin": 837.0392,
+            "Tag": 30,
+            "ActionTag": 1519130742,
+            "Size": {
+              "X": 33.0,
+              "Y": 22.0
+            },
+            "Name": "Text_6_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 22,
+            "LabelText": "分",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.1655,
+              "Y": 848.2417
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.91,
+              "Y": 0.6627
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 644.1655,
+            "RightMargin": 53.8345,
+            "TopMargin": 420.7583,
+            "BottomMargin": 837.2417,
+            "Tag": 31,
+            "ActionTag": 2095839522,
+            "Size": {
+              "X": 22.0,
+              "Y": 22.0
+            },
+            "Name": "Text_7_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ProgressInfo": 66,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "jindutiao-yellow2.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 380.8938,
+              "Y": 848.6717
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.529,
+              "Y": 0.663
+            },
+            "PreSize": {
+              "X": 0.5972,
+              "Y": 0.0234
+            },
+            "LeftMargin": 165.8938,
+            "RightMargin": 124.1062,
+            "TopMargin": 416.3283,
+            "BottomMargin": 833.6717,
+            "Tag": 32,
+            "ActionTag": 1695681132,
+            "Size": {
+              "X": 430.0,
+              "Y": 30.0
+            },
+            "Name": "LoadingBar_7_0",
+            "ctype": "LoadingBarObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bgRank.jpg",
+        "Default/Button_Disable.png",
+        "fanhui.png",
+        "jindutiao-yellow2.png",
+        "paiming-jindutiao.png",
+        "WO-jindutiao2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
